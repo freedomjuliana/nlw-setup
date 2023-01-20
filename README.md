@@ -35,4 +35,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ---
 
-Feito com ♥ by Juliana Morais! :)
+Feito com 💜 by Juliana Morais! :)
