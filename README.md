@@ -10,10 +10,6 @@ Aplicação desenvolvida durante a semana do evento NLW Setup (Trilha Explorer),
   <a href="#-layout">Layout</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
