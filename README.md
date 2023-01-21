@@ -29,9 +29,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é uma aplicação que visa ajudar a rastrear os hábitos do usuário.
 
+Acesse o site com constância e clique em "+ Registrar o meu dia" para selecionar as atividades realizadas ao longo dos dias.
+
+- Para acessá-lo, basta entrar [aqui](https://freedomjuliana.github.io/nlw-setup/).
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O template do projeto está disponível [NESTE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
